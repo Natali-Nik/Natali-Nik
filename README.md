@@ -10,5 +10,5 @@
 - **Languages**: Python (Still Basic)
 
 ### 🌍 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in[/natali-nikolic/)
+- [LinkedIn] https://www.linkedin.com/in/natali-nikolic/
 
