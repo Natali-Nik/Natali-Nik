@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello, I'm Natali 👋
 
-<!--
-**Natali-Nik/Natali-Nik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me:
+- 🔭 Currently working on: Module 3 of my PGD Certificate Course on AI
+- 🌱 Learning: AI and Machine Learning, R, Python
+- 💬 Ask me about: Product Management, Agile Methodologies, UX
+- ⚡ Fun fact: I'm into trying out new dance classes and will go to my first Hackathon event soon!
 
-Here are some ideas to get you started:
+### 🛠️ Languages and Tools:
+- **Languages**: Python (Still Basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in[/natali-nikolic/)
+
